@@ -13,7 +13,7 @@ import re
 # ----------------------------------------------------------
 # LOAD DATA
 # ----------------------------------------------------------
-path = r"D:\Prodigy\task4\data-task4.csv"   # <-- Change if needed
+path = r"D:\Prodigy\task4\data-task4.csv"   
 df = pd.read_csv(path)
 
 print("Dataset Loaded Successfully!")
